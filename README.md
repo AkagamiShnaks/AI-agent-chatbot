@@ -79,7 +79,7 @@ python frontend.py
 
 ## 👤 Author
 
-**Your Name**  
+**Ayon Sen**  
 [GitHub](https://github.com/AkagamiShnaks)  
 [LinkedIn](https://linkedin.com/in/yourprofile)
 
