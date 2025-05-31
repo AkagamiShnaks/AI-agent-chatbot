@@ -80,7 +80,7 @@ python frontend.py
 ## 👤 Author
 
 **Your Name**  
-[GitHub](https://github.com/yourusername)  
+[GitHub](https://github.com/AkagamiShnaks)  
 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
